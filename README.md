@@ -16,7 +16,7 @@ Utilizing the melanoma malignant progression map we've built at single-cell reso
 
 ```````
 library("devtools");
-install_github("ansheng0/MelMal.Detector")
+install_github("Bonnie19920126/MelMal.Detector")
 ```````
 
 

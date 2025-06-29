@@ -90,3 +90,11 @@ Tinyi Chu, Zhong Wang, Dana Pe’er & Charles G. Danko
 
 https://www.nature.com/articles/s43018-022-00356-3
 
+4 Cite MelMal.Detector:
+-----------
+
+The Dynamically Evolving Cell States and Ecosystem from Benign Nevi to Melanoma
+
+Xin Li, Xiyuan Zhang, Shuang Zhao, Shiyao Pei, Jie Sun, Liang Dong, Xu Pan, Wenhua Wang, Hao Liu, Yaoxuan Huang, Teng Liu, Jinhai Deng, Chunlan Hu, Chao Lv, Juan Su, Mingzhu Yin, Xiang Chen
+
+https://aacrjournals.org/clincancerres/article-abstract/31/12/2478/762792/The-Dynamically-Evolving-Cell-States-and-Ecosystem
